@@ -84,7 +84,7 @@ interval calibration. No single model dominates on every criterion.
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/electricity-price-forecasting.git
+git clone https://github.com/Ahmed0391/electricity-price-forecasting.git
 cd electricity-price-forecasting
 pip install -r requirements.txt
 # add ENTSO-E files to data/ (see data/README.md)
