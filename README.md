@@ -6,7 +6,7 @@ Hybrid stochastic + machine learning approach for forecasting day-ahead
 electricity spot prices on the Dutch market, combining Schwartz factor
 ML models.
 
-Research internship — LAMSIN, ENIT / ENSTA Paris (2026)
+Research internship at LAMSIN, ENIT / ENSTA Paris (2026)
 
 ---
 
@@ -97,8 +97,8 @@ Python · PyTorch · XGBoost · scikit-learn · SciPy · pandas · NumPy
 
 ## Author
 
-**Ahmed Saidi** — Applied Mathematics, ENIT / ENSTA Paris
-Research internship at LAMSIN (2026), supervised by H. Mezghani
+**Ahmed Saidi**, Applied Mathematics student at ENIT-ENSTA Paris
+Research internship at LAMSIN, supervised by H. Mezghani
 
 
 ## Acknowledgements
